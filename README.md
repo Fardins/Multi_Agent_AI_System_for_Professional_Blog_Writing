@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-app-name.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://multiagentaisystemforprofessionalblogwriting.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.1%2B-00C896?style=for-the-badge)](https://github.com/langchain-ai/langgraph)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
